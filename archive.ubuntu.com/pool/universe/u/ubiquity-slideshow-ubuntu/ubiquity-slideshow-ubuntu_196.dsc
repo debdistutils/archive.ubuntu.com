@@ -1,0 +1,1 @@
+../../../main/u/ubiquity-slideshow-ubuntu/ubiquity-slideshow-ubuntu_196.dsc
